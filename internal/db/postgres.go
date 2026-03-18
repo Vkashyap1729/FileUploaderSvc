@@ -7,7 +7,7 @@ import (
     "time"
 
     "github.com/jackc/pgx/v5/pgxpool"
-    "your_project/internal/config"
+    "file-uploader/internal/config"
 )
 
 type PostgresDB struct {
